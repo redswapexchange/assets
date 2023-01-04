@@ -1,0 +1,17 @@
+{
+    "name": "Wrapped ALYX (WALYX)",
+    "website": "https://www.alyxchain.com/",
+    "description": "Wrapped ALYX.",
+    "explorer": "https://www.alyxscan.com/address/0xEa3528B870dEf1a7A5009eBa7aDb2385193e304d",
+    "type": "ERC20",
+    "symbol": "WALYX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xEa3528B870dEf1a7A5009eBa7aDb2385193e304d",
+    "tags": [
+        ""
+    ],
+    "links": [
+        
+    ]
+}
